@@ -4,7 +4,7 @@ Simple debugger for AtomMiner FPAG crypto-coin miner. Please donate if you like 
 BTC donation: 3LwsJAzPd8weD1FypVWmkDFMwA7rgjPSif
 
 ## Build instructions
-Project can be build with MonoDevelop or MS Visual Studio 2013 with target architecture .NET 4.0
+Project can be built with MonoDevelop or MS Visual Studio 2013 with target architecture .NET 4.0
 
 Running debugger under Linux/MacOSX environment:
 ```sh
